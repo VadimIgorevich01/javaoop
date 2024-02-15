@@ -1,0 +1,52 @@
+февр. 15, 2024 5:10:07 PM org.example.lesson3_1.AbstractGame start
+INFO: Выбран тип игры 2 - Загадывается РУ слово
+февр. 15, 2024 5:10:07 PM org.example.lesson3_1.AbstractGame generateWord
+INFO: JVM создал: л
+февр. 15, 2024 5:10:19 PM org.example.lesson3_1.AbstractGame inputValue
+INFO: Пользователь ввел d
+февр. 15, 2024 5:10:19 PM org.example.lesson3_1.AbstractGame inputValue
+INFO: Результат игры: 0 коровы 0 быка.
+февр. 15, 2024 5:10:19 PM org.example.lesson3_1.GameCowsBulls start
+INFO: Поражение
+февр. 15, 2024 5:10:33 PM org.example.lesson3_1.GameCowsBulls start
+INFO: Пользователь выбрал перезапуск
+февр. 15, 2024 5:10:33 PM org.example.lesson3_1.GameCowsBulls start
+INFO: -----------------ПЕРЕЗАПУСК-----------------
+февр. 15, 2024 5:10:45 PM org.example.lesson3_1.AbstractGame start
+INFO: Выбран тип игры 1 - Загадывается число
+февр. 15, 2024 5:10:45 PM org.example.lesson3_1.AbstractGame generateWord
+INFO: JVM создал: 1
+февр. 15, 2024 5:10:47 PM org.example.lesson3_1.AbstractGame inputValue
+INFO: Пользователь ввел 4
+февр. 15, 2024 5:10:47 PM org.example.lesson3_1.AbstractGame inputValue
+INFO: Результат игры: 0 коровы 0 быка.
+февр. 15, 2024 5:10:47 PM org.example.lesson3_1.GameCowsBulls start
+INFO: Поражение
+февр. 15, 2024 5:10:59 PM org.example.lesson3_1.GameCowsBulls start
+INFO: Пользователь выбрал перезапуск
+февр. 15, 2024 5:10:59 PM org.example.lesson3_1.GameCowsBulls start
+INFO: -----------------ПЕРЕЗАПУСК-----------------
+февр. 15, 2024 5:11:03 PM org.example.lesson3_1.AbstractGame start
+INFO: Выбран тип игры 3 - Загадывается EN слово
+февр. 15, 2024 5:11:03 PM org.example.lesson3_1.AbstractGame generateWord
+INFO: JVM создал: k
+февр. 15, 2024 5:11:05 PM org.example.lesson3_1.AbstractGame inputValue
+INFO: Пользователь ввел л
+февр. 15, 2024 5:11:05 PM org.example.lesson3_1.AbstractGame inputValue
+INFO: Результат игры: 0 коровы 0 быка.
+февр. 15, 2024 5:11:05 PM org.example.lesson3_1.GameCowsBulls start
+INFO: Поражение
+февр. 15, 2024 5:11:11 PM org.example.lesson3_1.GameCowsBulls start
+INFO: Пользователь выбрал перезапуск
+февр. 15, 2024 5:11:11 PM org.example.lesson3_1.GameCowsBulls start
+INFO: -----------------ПЕРЕЗАПУСК-----------------
+февр. 15, 2024 5:11:13 PM org.example.lesson3_1.AbstractGame start
+INFO: Выбран тип игры 1 - Загадывается число
+февр. 15, 2024 5:11:13 PM org.example.lesson3_1.AbstractGame generateWord
+INFO: JVM создал: 2
+февр. 15, 2024 5:11:14 PM org.example.lesson3_1.AbstractGame inputValue
+INFO: Пользователь ввел 2
+февр. 15, 2024 5:11:14 PM org.example.lesson3_1.AbstractGame inputValue
+INFO: Результат игры: 1 коровы 1 быка.
+февр. 15, 2024 5:11:14 PM org.example.lesson3_1.GameCowsBulls start
+INFO: Победа
